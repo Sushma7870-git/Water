@@ -1,4 +1,4 @@
-# Water
+# Effective Water Body Extraction from Hyperspectral Data: A Focus on Unsupervised Band Indices
 # Data Availability Repository
 
 Welcome to the Data Availability Repository. This repository is designed to provide access to various datasets and ensure their availability for research, analysis, and educational purposes.
