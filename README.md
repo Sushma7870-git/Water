@@ -30,7 +30,7 @@ This repository contains a hyperion data strip of waterford city in Ireland. The
 
 **File:** `Bad_bandR.zip`
 
-**Size:** 
+**Size:** 175 mb
 
 
 
