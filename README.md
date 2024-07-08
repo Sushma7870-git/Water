@@ -22,22 +22,15 @@ This repository contains a hyperion data strip of waterford city in Ireland. The
 
 ## Datasets
 
-### Dataset 1
+### Dataset 
 
 **Description:** This dataset contains information about XYZ.
 
-**Source:** [Link to source](https://example.com)
+**Source:** [Link to source](https://drive.google.com/file/d/1tJfTYYOskt4u1ezY7RJAlj0nVZ3k84QQ/view?usp=drive_link)
 
 **File:** `Bad_bandR.zip`
 
 **Size:** 
 
-## Usage
 
-### Downloading Data
-
-To download a dataset, clone the repository and navigate to the dataset directory:
-
-```sh
-git clone https://github.com/Sushma7870-git/Water.git
 
